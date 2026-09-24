@@ -65,8 +65,8 @@ Event Hours: 11:00am – 3:00pm PT · ~40 attendees (Director+ decision makers)
 
 **ACTIVATIONS & HOSPITALITY**
 
-- **Tiffany & Co. engraving** — personalized bookmarks, open 11:00am–12:00pm and 2:00pm–3:00pm
-- **Headshot studio** — professional headshots, same two windows
+- **Tiffany & Co. engraving** — personalized bookmarks, open throughout the event, 11:00am–3:00pm
+- **Headshot studio** — professional headshots, open throughout the event, 11:00am–3:00pm
 - **1:1 customer meetings** — dedicated space in the lounge across both open blocks
 - **Agency audits** — offered to attendees not yet active on Attentive Email; onsite team is tracking interest
 - **Valet** — available at The Proper
