@@ -1,0 +1,526 @@
+{
+  "template": "/root/.claude/skills/synced/b274f0e7-ba7f-4b80-9128-3c20a62a5a94_990c8a88-db07-4b26-a2c0-fe8bdbc399e3/attentive-pixel-perfect-slides/attentive-slide-builder/TemplateΓÇö2026 NEW Attentive Company Deck Template.pptx",
+  "slides": [
+    {
+      "template_slide": 16,
+      "note": "cover",
+      "text": {
+        "Insert the name of the deck here.": "Thread New York 2026",
+        "Lorem ipsum dolor sit amet": "Environment reference"
+      }
+    },
+    {
+      "template_slide": 30,
+      "note": "breaker: the event",
+      "text": {
+        "Section name": "The event",
+        "goes here": ""
+      }
+    },
+    {
+      "template_slide": 80,
+      "note": "scale of the room",
+      "shapes": {
+        "Google Shape;2114;p279": {
+          "Topic": "Thread World Tour"
+        },
+        "Google Shape;2115;p279": {
+          "Title of section": "The numbers",
+          "Subtitle": ""
+        },
+        "Google Shape;2116;p279": {
+          "Title of section": "Who came",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.": "Thread New York drew retail and ecommerce decision makers to the 101st floor at Hudson Yards for a single day, with morning activations running well before the content program opened."
+        },
+        "Google Shape;2119;p279": {
+          "40M total": "419"
+        },
+        "Google Shape;2120;p279": {
+          "Lorem": "RSVPs"
+        },
+        "Google Shape;2122;p279": {
+          "40M total": "211"
+        },
+        "Google Shape;2123;p279": {
+          "Lorem": "Customers"
+        },
+        "Google Shape;2125;p279": {
+          "40M total": "106"
+        },
+        "Google Shape;2126;p279": {
+          "Lorem": "Prospects"
+        },
+        "Google Shape;2128;p279": {
+          "40M total": "32"
+        },
+        "Google Shape;2129;p279": {
+          "Lorem": "Partners"
+        }
+      },
+      "images": {
+        "Google Shape;2117;p279": "/home/user/claude/AI Sandbox/thread-ny-portfolio/assets/s03_845.png"
+      }
+    },
+    {
+      "template_slide": 73,
+      "note": "what Thread is",
+      "shapes": {
+        "Google Shape;2040;p272": {
+          "Topic": "Thread World Tour"
+        },
+        "Google Shape;2041;p272": {
+          "Title of section": "What Thread is",
+          "Subtitle": ""
+        },
+        "Google Shape;2042;p272": {
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.": "Thread is our conference for conversational commerce, launched in 2022 and kept deliberately small—one day, one room. New York opened the 2026 tour, with London, Los Angeles, and Melbourne to follow."
+        }
+      },
+      "images": {
+        "Google Shape;2043;p272": "/home/user/claude/AI Sandbox/thread-ny-portfolio/assets/s04_829.png"
+      }
+    },
+    {
+      "template_slide": 31,
+      "note": "breaker: the space",
+      "text": {
+        "Section name": "The space",
+        "goes here": ""
+      }
+    },
+    {
+      "template_slide": 78,
+      "note": "venue characteristics",
+      "shapes": {
+        "Google Shape;2092;p277": {
+          "Topic": "The venue"
+        },
+        "Google Shape;2093;p277": {
+          "Title of section": "Hudson Yards",
+          "Subtitle": ""
+        },
+        "Google Shape;2094;p277": {
+          "Title of section": "One floor",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit,": "Arrival, check-in, and lunch all ran on the 101st floor,",
+          " sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.": " and the content program followed in the same room."
+        },
+        "Google Shape;2095;p277": {
+          "Title of section": "Short walks",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.": "Morning activations ran in venues across Hudson Yards.",
+          " Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.": " Each one sat within a short walk of the main floor."
+        },
+        "Google Shape;2096;p277": {
+          "Title of section": "Three formats",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.": "One room carried lunch rounds, a seated stage, and a standing reception, with no room change between them."
+        },
+        "Google Shape;2097;p277": {
+          "Title of section": "A long day",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.": "Doors opened at 8:45am, the content program ran from 1:00pm, and the bash closed the night at 8:00pm."
+        }
+      },
+      "images": {
+        "Google Shape;2098;p277": "/home/user/claude/AI Sandbox/thread-ny-portfolio/assets/s06_800.png"
+      }
+    },
+    {
+      "template_slide": 71,
+      "note": "check-in staffing",
+      "shapes": {
+        "Google Shape;2019;p270": {
+          "Topic": "The space"
+        },
+        "Google Shape;2020;p270": {
+          "Title of section": "The door",
+          "Subtitle": ""
+        },
+        "Google Shape;2021;p270": {
+          "Title of section": "Five shifts",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.": "The desk was staffed in five blocks, from 8:45am through to 8:00pm."
+        },
+        "Google Shape;2022;p270": {
+          "Title of section": "Two on deck",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.": "Most shifts ran two Attentive hosts alongside Validar support."
+        },
+        "Google Shape;2023;p270": {
+          "Title of section": "Peak cover",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.": "The 11:00am to 2:00pm arrival block carried three hosts."
+        },
+        "Google Shape;2024;p270": {
+          "Title of section": "Late cover",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.": "One host covered each of the 5:00pm and 6:30pm bash blocks."
+        }
+      }
+    },
+    {
+      "template_slide": 86,
+      "note": "arrival and lunch",
+      "shapes": {
+        "Google Shape;2199;p285": {
+          "Topic": "The space"
+        },
+        "Google Shape;2200;p285": {
+          "Title of section": "Arrival",
+          "Subtitle": ""
+        },
+        "Google Shape;2193;p285": {
+          "Subtitle": "Check-in opened at 8:45am"
+        },
+        "Google Shape;2194;p285": {
+          "Subtitle": "Lunch rounds from 12:00pm"
+        },
+        "Google Shape;2195;p285": {
+          "Subtitle": "Networking before the program"
+        }
+      },
+      "images": {
+        "Google Shape;2196;p285": "/home/user/claude/AI Sandbox/thread-ny-portfolio/assets/s07_801.png",
+        "Google Shape;2197;p285": "/home/user/claude/AI Sandbox/thread-ny-portfolio/assets/s07_802.png",
+        "Google Shape;2198;p285": "/home/user/claude/AI Sandbox/thread-ny-portfolio/assets/s07_804.png"
+      }
+    },
+    {
+      "template_slide": 88,
+      "note": "the room",
+      "shapes": {
+        "Google Shape;2227;p287": {
+          "Topic": "The space"
+        },
+        "Google Shape;2228;p287": {
+          "Title of section": "The room",
+          "Subtitle": ""
+        },
+        "Google Shape;2219;p287": {
+          "Subtitle": "Rounds face the stage"
+        },
+        "Google Shape;2220;p287": {
+          "Subtitle": "One screen, centered"
+        },
+        "Google Shape;2221;p287": {
+          "Subtitle": "Clear to the back row"
+        },
+        "Google Shape;2222;p287": {
+          "Subtitle": "Two networking breaks"
+        }
+      },
+      "images": {
+        "Google Shape;2223;p287": "/home/user/claude/AI Sandbox/thread-ny-portfolio/assets/s08_807.png",
+        "Google Shape;2224;p287": "/home/user/claude/AI Sandbox/thread-ny-portfolio/assets/s08_838.png",
+        "Google Shape;2225;p287": "/home/user/claude/AI Sandbox/thread-ny-portfolio/assets/s08_885.png",
+        "Google Shape;2226;p287": "/home/user/claude/AI Sandbox/thread-ny-portfolio/assets/s08_892.png"
+      }
+    },
+    {
+      "template_slide": 32,
+      "note": "breaker: the activations",
+      "text": {
+        "Section name": "The activations",
+        "goes here": ""
+      }
+    },
+    {
+      "template_slide": 70,
+      "note": "morning activation menu",
+      "shapes": {
+        "Google Shape;2008;p269": {
+          "Topic": "Activations"
+        },
+        "Google Shape;2009;p269": {
+          "Title of section": "The morning",
+          "Subtitle": ""
+        },
+        "Google Shape;2010;p269": {
+          "Title of section": "SoulCycle",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.": "First arrivals rode at 8:15am, well before check-in opened for the main program."
+        },
+        "Google Shape;2011;p269": {
+          "Title of section": "Plaza M",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.": "Recharge hosted appointments here for VIP customers through the 9:00am block."
+        },
+        "Google Shape;2012;p269": {
+          "Title of section": "Fellow Barber",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.": "Grooming appointments ran alongside the other wellness options that morning."
+        },
+        "Google Shape;2013;p269": {
+          "Title of section": "Sunday Nails",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.": "The third wellness and beauty choice offered to VIP customers on arrival."
+        }
+      }
+    },
+    {
+      "template_slide": 84,
+      "note": "what's in store hosts",
+      "shapes": {
+        "Google Shape;2171;p283": {
+          "Topic": "Activations"
+        },
+        "Google Shape;2172;p283": {
+          "Title of section": "What's in Store",
+          "Subtitle": ""
+        },
+        "Google Shape;2170;p283": {
+          "Content Here": "Coach",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit": "Bazaarvoice hosted this session."
+        },
+        "Google Shape;2173;p283": {
+          "Content Here": "TUMI",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit": "One of four store sessions."
+        },
+        "Google Shape;2174;p283": {
+          "Content Here": "AG Jeans",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit": "A short walk from the main floor."
+        },
+        "Google Shape;2176;p283": {
+          "Content Here": "Faherty",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit": "Ran against the wellness block."
+        }
+      },
+      "runs": {
+        "Google Shape;2175;p283": [
+          "All four ran 10:00am to 12:00pm inside Hudson Yards.",
+          "Offered to VIP customers registered for Thread.",
+          "Guests chose one store session or a wellness slot.",
+          "Speakers arrived at 9:45am.",
+          ""
+        ]
+      }
+    },
+    {
+      "template_slide": 87,
+      "note": "the evening",
+      "shapes": {
+        "Google Shape;2214;p286": {
+          "Topic": "Activations"
+        },
+        "Google Shape;2210;p286": {
+          "Title of section": "The evening",
+          "Subtitle": ""
+        },
+        "Google Shape;2205;p286": {
+          "Title": "Cocktail hour",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum malesuada lorem dolore.": "Opened at 5:00pm, right after closing remarks."
+        },
+        "Google Shape;2211;p286": {
+          "Title": "Food stations",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum malesuada lorem dolore.": "Light bites and stations instead of a seated dinner."
+        },
+        "Google Shape;2212;p286": {
+          "Title": "Magnolia Bakery",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum malesuada lorem dolore.": "Treats ran through the cocktail hour and bash."
+        },
+        "Google Shape;2213;p286": {
+          "Title": "Thread Bash",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur rutrum malesuada lorem dolore.": "The room stayed open until 8:00pm."
+        }
+      },
+      "images": {
+        "Google Shape;2206;p286": "/home/user/claude/AI Sandbox/thread-ny-portfolio/assets/s12_902.png",
+        "Google Shape;2207;p286": "/home/user/claude/AI Sandbox/thread-ny-portfolio/assets/s12_905.png",
+        "Google Shape;2208;p286": "/home/user/claude/AI Sandbox/thread-ny-portfolio/assets/s12_935.png",
+        "Google Shape;2209;p286": "/home/user/claude/AI Sandbox/thread-ny-portfolio/assets/s12_940.png"
+      }
+    },
+    {
+      "template_slide": 72,
+      "note": "partners",
+      "shapes": {
+        "Google Shape;2029;p271": {
+          "Topic": "Thread World Tour"
+        },
+        "Google Shape;2030;p271": {
+          "Title of section": "Partners",
+          "Subtitle": ""
+        },
+        "Google Shape;2031;p271": {
+          "Title of section": "Simon Data",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.": "Ran a solo session, then joined Attentive and Snowflake on stage, plus a kiosk on the 101st floor."
+        },
+        "Google Shape;2032;p271": {
+          "Title of section": "Bazaarvoice",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.": "Hosted the Coach What's in Store session for VIP customers and ran a kiosk in the event space."
+        },
+        "Google Shape;2033;p271": {
+          "Title of section": "Recharge",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.": "Hosted Plaza M appointments for VIP customers during the morning block."
+        },
+        "Google Shape;2034;p271": {
+          "Title of section": "Friendbuy",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.": "On the partner roster for the New York stop."
+        },
+        "Google Shape;2035;p271": {
+          "Title of section": "Shopify",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.": "Rounded out the five partners on site."
+        }
+      }
+    },
+    {
+      "template_slide": 33,
+      "note": "breaker: what to repeat",
+      "text": {
+        "Section name": "What to repeat",
+        "goes here": ""
+      }
+    },
+    {
+      "template_slide": 60,
+      "note": "closing statement",
+      "shapes": {
+        "Google Shape;1919;p259": {
+          "Topic": "What to repeat"
+        }
+      },
+      "runs": {
+        "Google Shape;1918;p259": [
+          "One room did all the ",
+          "",
+          "work",
+          "",
+          "",
+          "",
+          "."
+        ]
+      }
+    },
+    {
+      "template_slide": 159,
+      "note": "run of show",
+      "shapes": {
+        "Google Shape;3437;p358": {
+          "Topic": "Run of show"
+        },
+        "Google Shape;3436;p358": {
+          "Timeline Template 1": "The shape of the day"
+        },
+        "Google Shape;3463;p358": {
+          "Note: timelines are subject to change based on outcomes of Scoping & Alignment phase": "Times reflect the May 20, 2026 run of show."
+        },
+        "Google Shape;3439;p358": {
+          "Scoping + Alignment": "Morning activations",
+          "(x time)": ""
+        },
+        "Google Shape;3443;p358": {
+          "Kickoff + Discovery": "What's in Store",
+          "(x time)": ""
+        },
+        "Google Shape;3455;p358": {
+          "Warmup + Setup": "Arrival and lunch",
+          "(x time)": ""
+        },
+        "Google Shape;3447;p358": {
+          "Migration + Validation": "Content program",
+          "(x time)": ""
+        },
+        "Google Shape;3451;p358": {
+          "Launch & Optimization": "Cocktail hour and Bash",
+          "(x time)": ""
+        },
+        "Google Shape;3458;p358": {
+          "Time": "8:15am"
+        },
+        "Google Shape;3459;p358": {
+          "Time": "10:00am"
+        },
+        "Google Shape;3460;p358": {
+          "Time": "12:00pm"
+        },
+        "Google Shape;3461;p358": {
+          "Time": "1:00pm"
+        },
+        "Google Shape;3462;p358": {
+          "Time": "5:00pm"
+        },
+        "Google Shape;3464;p358": {
+          "Information line 1": "SoulCycle first arrivals",
+          "Information line 2": "Plaza M appointments",
+          "Information line 3": "Fellow Barber",
+          "Information line 4": "Sunday Nails",
+          "Information line 5": "",
+          "Information line 6": "",
+          "Information line 7": "",
+          "Information line 8": ""
+        },
+        "Google Shape;3465;p358": {
+          "Information line 1": "Coach",
+          "Information line 2": "TUMI",
+          "Information line 3": "AG Jeans",
+          "Information line 4": "Faherty",
+          "Information line 5": "",
+          "Information line 6": "",
+          "Information line 7": "",
+          "Information line 8": ""
+        },
+        "Google Shape;3466;p358": {
+          "Information line 1": "Check-in on the 101st floor",
+          "Information line 2": "Lunch rounds",
+          "Information line 3": "Open networking",
+          "Information line 4": "",
+          "Information line 5": "",
+          "Information line 6": "",
+          "Information line 7": "",
+          "Information line 8": ""
+        },
+        "Google Shape;3467;p358": {
+          "Information line 1": "Welcome and opening remarks",
+          "Information line 2": "Keynote: market insights",
+          "Information line 3": "2025 consumer survey",
+          "Information line 4": "Customer data and personalization",
+          "Information line 5": "Innovation in Action",
+          "Information line 6": "Customer spotlight",
+          "Information line 7": "Future of email",
+          "Information line 8": "Closing remarks"
+        },
+        "Google Shape;3468;p358": {
+          "Information line 1": "Light bites and food stations",
+          "Information line 2": "Magnolia Bakery treats",
+          "Information line 3": "Open until 8:00pm",
+          "Information line 4": "",
+          "Information line 5": "",
+          "Information line 6": "",
+          "Information line 7": "",
+          "Information line 8": ""
+        }
+      }
+    },
+    {
+      "template_slide": 150,
+      "note": "what to repeat",
+      "shapes": {
+        "Google Shape;3299;p349": {
+          "Topic": "What to repeat"
+        },
+        "Google Shape;3300;p349": {
+          "This is a two line header that contains less than 125 characters and is most used when there are three sets of positive points": "Three things the next stop should plan for early"
+        },
+        "Google Shape;3303;p349": {
+          "~20 character point 1": "One room, one floor"
+        },
+        "Google Shape;3307;p349": {
+          "~20 character point 1": "A morning that earns"
+        },
+        "Google Shape;3311;p349": {
+          "~20 character point 1": "Partners with a job"
+        }
+      },
+      "runs": {
+        "Google Shape;3302;p349": [
+          "Lunch, content, and drinks shared one space.",
+          "Guests never relocated mid-day.",
+          "One set-up carried three formats."
+        ],
+        "Google Shape;3306;p349": [
+          "Activations pulled VIPs in hours early.",
+          "Wellness or retail, the guest chose.",
+          "Partners hosted, which shared the load."
+        ],
+        "Google Shape;3310;p349": [
+          "Each partner had a session, kiosk, or host.",
+          "No one was there as signage only.",
+          "Five partners, five distinct placements."
+        ]
+      }
+    },
+    {
+      "template_slide": 128,
+      "note": "closer"
+    }
+  ]
+}
