@@ -43,9 +43,19 @@ If a plan already exists, you are updating, not creating. Switch to the update p
 
 In rough order of preference:
 
-1. A file explicitly marked `[TEMPLATE]` for this event type (e.g. `[TEMPLATE] Thread | Project Plan `).
-2. The most recent completed event of the same type — copy it and clear the data.
+1. A file explicitly marked `[TEMPLATE]` for this event type. These live in
+   `2026 / Planning / Templates /`:
+   - `[TEMPLATE] Proprietary Event | Project Plan` — 9 tabs, 22 tasks from 4 weeks out
+   - `[TEMPLATE] Conference | Project Plan` — 14 tabs, 24 tasks from 15 weeks out, plus the
+     Portal Deadlines section
+   - `[TEMPLATE] Thread | Project Plan ` — the existing summit template, in `Customer / Thread 2026 /`
+2. The most recent completed event of the same type — copy it and clear the data with
+   `scripts/make_template.py`.
 3. Ask the planner which event to model it on.
+
+In every template, the event date in `'Project Plan '!B1` drives the whole Timeline + Tasks tab
+through `=IF('Project Plan '!$B$1="","",'Project Plan '!$B$1-(C2*7))`. Set that one cell and all
+the due dates appear. Until it is set they show blank, which is intended — not a broken formula.
 
 When clearing a copied event, clear values but keep headers, tab structure, formulas and
 formatting. `fill_plan.py --clear-data` does this; check its output before uploading, since what

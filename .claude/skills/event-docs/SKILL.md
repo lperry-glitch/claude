@@ -119,11 +119,29 @@ python3 scripts/fill_plan.py \
 `fill_plan.py --describe template.xlsx` prints the tab and cell map first, so you write to the
 right cells instead of guessing. Pass values as JSON keyed by `"Tab Name!A1"`.
 
-Two things to know about the conversion: Google-specific features that xlsx has no slot for —
-cell notes, checkboxes, some conditional formatting — do not survive. And formulas are preserved
-as formulas, so a budget tab keeps calculating. If a template leans heavily on checkboxes (the
-Sponsors tab uses TRUE/FALSE, which is fine; real checkbox widgets are not), say so rather than
-letting the planner discover it.
+Four things to know about this round-trip, each learned the hard way:
+
+**Upload size is the real constraint.** `create_file` takes the workbook only as an inline
+base64 string, which means transcribing it into the tool call. Around 15,000 base64 characters
+(~11KB of xlsx) that transcription is reliable; past roughly 18,000 it corrupts and Drive
+rejects it with "Invalid conversion requested". The failure is loud and creates nothing, so it
+costs a call rather than producing a bad file — but don't burn three attempts on it. A Google
+Sheet exported to xlsx is 350–500KB because of per-cell styling across its thousand
+formatted-but-empty rows, so **always trim before uploading**: delete rows past the last one
+with content plus a small buffer, and columns past the last used. That alone took a 358KB
+workbook to 18KB. If it still won't fit, hand the planner the .xlsx file and let them drop it
+into Drive, which converts it on upload — one manual step beats three failed uploads.
+
+**xlsx forbids `: \ / ? * [ ]` in tab names**, so exporting silently renames them: `1:1 Meetings`
+arrives as `11 Meetings`, `Shipping/Tracking` as `ShippingTracking`. Uploading back makes that
+rename permanent. When updating an existing plan whose tabs use those characters, say so before
+you upload, or have the planner rename the tabs to safe equivalents once.
+
+**Google-specific features that xlsx has no slot for** — cell notes, checkbox widgets, some
+conditional formatting — do not survive. TRUE/FALSE text (as the Sponsors tab uses) is fine.
+
+**Formulas are preserved as formulas**, so a budget tab keeps calculating and the Due Date
+column keeps deriving from the event date.
 
 ### 5. Build the Overview Doc
 
